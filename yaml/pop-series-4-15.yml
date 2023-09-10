@@ -1,0 +1,85 @@
+---
+id: pop4-15
+name: Treecko δ
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '40'
+types:
+- Psychic
+evolvesTo:
+- Grovyle
+attacks:
+- name: Pound
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Shining Claws
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Flip a coin. If heads, the Defending Pokémon is now Confused.
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Water
+  value: "-30"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: pop4
+  name: POP Series 4
+  series: POP
+  printedTotal: 17
+  total: 17
+  legalities:
+    unlimited: Legal
+  releaseDate: 2006/08/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/pop4/symbol.png
+    logo: https://images.pokemontcg.io/pop4/logo.png
+number: '15'
+artist: Masakazu Fukuda
+rarity: Common
+nationalPokedexNumbers:
+- 252
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/pop4/15.png
+  large: https://images.pokemontcg.io/pop4/15_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pop4-15
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 1.13
+      mid: 1.5
+      high: 2.99
+      market: 1.55
+      directLow: 1.5
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pop4-15
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 1.22
+    lowPrice: 0.69
+    trendPrice: 1.3
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.69
+    avg1: 1.5
+    avg7: 1.11
+    avg30: 1.21
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
